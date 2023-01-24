@@ -1,0 +1,16 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+.box-3 {
+  width: 150px;
+  height: 150px;
+  background-color: #4caf50;
+
+  /*  If the block is a square, settings the radius to 50% will transform it to a circle  */
+  /* border-radius: 50%; */
+  border-bottom-right-radius: 45%;
+  border-top-right-radius: 45%;
+}
