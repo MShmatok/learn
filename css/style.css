@@ -7,7 +7,7 @@
 .box-3 {
   width: 150px;
   height: 150px;
-  background-color: red;
+  background-color: green;
 
   /*  If the block is a square, settings the radius to 50% will transform it to a circle  */
   /* border-radius: 50%; */
